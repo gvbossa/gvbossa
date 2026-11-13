@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gvbossa
-- 👀 I’m interested in Biophysics
-- 🌱 I’m currently learning Seaborn for Python DataAnalysis
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Biophysics and Supercapacitance
+- 🌱 I’m currently learning Quantum Encryption
+- 💞️ I’m looking to collaborate on University Management
 - 📫 How to reach me via e-mail guilherme.vbossa@gmail.com
 
 <!---
